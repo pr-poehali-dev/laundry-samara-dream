@@ -86,7 +86,7 @@ export default function Index() {
             <div className="relative">
               <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
                 <img 
-                  src="/img/aa109793-d60b-4d1d-bb1a-6819c384f567.jpg" 
+                  src="/img/b6f7fc4a-f2a4-4c98-9821-581a7fa6724e.jpg" 
                   alt="Промышленная прачечная"
                   className="w-full h-96 object-cover"
                 />
